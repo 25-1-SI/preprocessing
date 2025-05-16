@@ -1,0 +1,7 @@
+[project]
+name = "preprocessing"
+version = "0.1.0"
+description = "싱크홀 고위험 지역 예측 프로젝트 전처리 과정"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
